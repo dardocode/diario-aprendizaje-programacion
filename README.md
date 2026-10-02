@@ -8,8 +8,9 @@ La intención es:
 - Detectar bloqueos reales
 - Dar seguimiento al progreso
 - Construir claridad con el tiempo
+- Aprender en público: algunas entradas se convierten en posts o hilos sobre lo que aprendí, con el error, el ejemplo o la idea que vale la pena contar.
 
-No es un blog ni un portafolio. Es una herramienta de aprendizaje.
+Primero es una herramienta de aprendizaje. El contenido sale de aquí, pero no se escribe para eso: si una entrada no da para post, no pasa nada.
 
 ---
 
@@ -20,6 +21,8 @@ YYYY-MM-DD.md
 
 Ejemplo:
 2026-01-04.md
+
+Las entradas siguen un plan de estudio por fases (HTML/CSS → JavaScript → PHP OOP/MVC → …). Los ejercicios viven en [frontend-fundamentals](https://github.com/dardocode/frontend-fundamentals).
 
 ---
 
@@ -42,5 +45,6 @@ La constancia es más importante que la forma.
 ---
 
 ## Nota personal
-Este diario no busca motivar a otros.
-Busca **entenderme mejor como aprendiz** y mejorar mi forma de estudiar y programar.
+Este diario busca, antes que nada, **entenderme mejor como aprendiz** y mejorar mi forma de estudiar y programar.
+
+Lo comparto en público porque aprender en voz alta me obliga a explicar con claridad, y porque los bloqueos y errores reales le pueden servir a alguien más que vaya por el mismo camino.
